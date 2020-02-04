@@ -3,7 +3,7 @@
 
 List of Files in this Repository:
 
-1. AakarKale DS Final_Project.ipynb	
+1. AakarKale DS Final_Project.ipynb
 2. Keras CNN Classification.py
 3. Merge.ipynb
 4. Missing Data.ipynb
